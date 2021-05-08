@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 @Entity
+// Airport Class
 public class Airport {
 	@Id
 	private int airportid;
